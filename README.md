@@ -28,7 +28,7 @@ http://localhost:3000
 
 El botón de compra ya apunta a:
 
-https://maviaudi.gumroad.com/l/juhwrm
+https://maviaudi.gumroad.com/l/qpmoff
 
 Para cambiarlo, editá la constante `gumroadLink` en:
 
